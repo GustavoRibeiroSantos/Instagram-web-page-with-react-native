@@ -1,21 +1,21 @@
-# Clone da Página do Instagram em React Native
+# Instagram homepage clone in React Native
 
-Este projeto é um clone da página inicial do Instagram, desenvolvido em React Native. Ele tem como objetivo demonstrar minhas habilidades de desenvolvimento e conhecimento em React Native.
+This project is a clone of the Instagram homepage, developed in React Native. It aims to demonstrate my development skills and knowledge of React Native.
 
-## Funcionalidades
+## Features
 
-- [x] Reprodução fiel à aparência da página inicial do Instagram
-- [x] Rolagem suave e interativa de feed de fotos
-- [x] Interface responsiva para diferentes tamanhos de tela
-- [x] Integração com ícones e recursos visuais semelhantes ao Instagram
+- [x] Faithful reproduction of the look and feel of the Instagram homepage
+- [x] Smooth, interactive photo feed scrolling
+- [x] Responsive interface for different screen sizes
+- [x] Integration with Instagram-like icons and visuals
 
-## Como Executar
+## How to Run
 
-1. Clone este repositório em sua máquina local.
-2. Navegue até o diretório do projeto.
-3. Execute `npm install` para instalar as dependências.
-4. Inicie o servidor de desenvolvimento com `npm start`.
-5. Use um emulador ou aplicativo Expo Go em seu dispositivo para visualizar o aplicativo.
+1. Clone this repository on your local machine.
+2. Navigate to the project directory.
+3. Run `npm install` to install the dependencies.
+4. Start the development server with `npm start`.
+5. Use an emulator or Expo Go application on your device to view the application.
 
 ```bash
 git clone https://github.com/seu-usuario/clone-instagram-react-native.git
@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir problemas ou enviar pull requests.
+## Contribution
+Contributions are welcome! If you find problems, bugs or have suggestions for improvements, feel free to open issues or send pull requests.
 
-### Divirta-se codificando! 📸📱
+### Have fun coding! 📸📱
